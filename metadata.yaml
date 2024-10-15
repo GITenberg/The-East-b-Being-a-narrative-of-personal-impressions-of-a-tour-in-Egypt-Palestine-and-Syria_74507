@@ -1,11 +1,16 @@
 _repo: The-East-b-Being-a-narrative-of-personal-impressions-of-a-tour-in-Egypt-Palestine-and-Syria_74507
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74507-h/images/cover.jpg
 creator:
   author:
     agent_name: Martin, William Young
     gutenberg_agent_id: '57529'
     url: http://www.gutenberg.org/2009/agents/57529
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74507#The-East-b-Being-a-narrative-of-personal-impressions-of-a-tour-in-Egypt-Palestine-and-Syria
 gutenberg_issued: '2024-10-03'
 gutenberg_type: Text
 identifiers:
